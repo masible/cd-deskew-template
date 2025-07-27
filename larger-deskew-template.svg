@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 793.70081 1122.5197"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   sodipodi:docname="powerbook-bookcover-deskew-template.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.73071669"
+     inkscape:cx="248.38628"
+     inkscape:cy="459.82253"
+     inkscape:window-width="3440"
+     inkscape:window-height="1371"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g3"
+       transform="matrix(0.59916882,0,0,0.6010738,-133.84774,-82.254832)">
+      <circle
+         style="fill:none;stroke:#000000;stroke-width:0.821393"
+         id="path1"
+         cx="396.8504"
+         cy="561.25983"
+         r="37.384579" />
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.164516;stroke-dasharray:none"
+         id="rect2"
+         width="0.21343686"
+         height="94.107094"
+         x="-396.95712"
+         y="514.2063"
+         transform="scale(-1,1)" />
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.216291;stroke-dasharray:none"
+         id="rect3"
+         width="94.388428"
+         height="0.16166168"
+         x="349.65619"
+         y="561.17902" />
+    </g>
+    <rect
+       style="display:none;fill:none;stroke:#000000;stroke-width:0.377953;stroke-dasharray:none"
+       id="rect4"
+       width="453.5433"
+       height="453.5433"
+       x="170.07875"
+       y="334.48819" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g3"
+       id="use4"
+       transform="translate(604.72443)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use4"
+       id="use5"
+       transform="translate(-2.1039532e-6,604.72442)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use5"
+       id="use6"
+       transform="translate(-604.72442)" />
+  </g>
+</svg>
